@@ -1,3 +1,5 @@
+import Foundation
+
 public struct Vector: Sendable {
 
     public var values: [Float]
