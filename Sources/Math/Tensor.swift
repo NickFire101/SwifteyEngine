@@ -1,3 +1,5 @@
+import Foundation
+
 public struct Tensor: Sendable {
 
     public var shape: Shape
