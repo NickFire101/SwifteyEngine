@@ -1,3 +1,5 @@
+import Foundation
+
 public struct Matrix: Sendable {
 
     public let rows: Int
