@@ -1,3 +1,5 @@
+import Foundation
+
 public enum MathError: Error {
 
     case dimensionMismatch
