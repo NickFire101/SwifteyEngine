@@ -1,3 +1,5 @@
+import Foundation
+
 public struct Shape: Sendable, Hashable {
 
     public let dimensions: [Int]
